@@ -1,0 +1,17 @@
+.header {
+  grid-area: h;
+  background: linear-gradient(45deg, #88948d, #717a75);
+}
+
+.header img {
+  width: 40px;
+}
+
+.loginBlock {
+	float: right;
+	color: white;
+}
+
+.loginBlock a {
+	color: white;
+}

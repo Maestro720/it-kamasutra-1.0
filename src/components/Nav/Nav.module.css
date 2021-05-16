@@ -1,0 +1,22 @@
+
+.nav {
+  border-radius: 0 0 10px 10px;
+  grid-area: n;
+  background: #f5f5f5;
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  height: 800px;
+}
+
+.item a{
+  color: black;
+  text-decoration: none; 
+  font-family: Arial, sans-serif;
+}
+
+.item a.active {
+	color: red;
+}
+
+

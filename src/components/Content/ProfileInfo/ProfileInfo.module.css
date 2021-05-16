@@ -1,0 +1,35 @@
+.name {
+	font-size: 25px;
+}
+
+.info {
+	width: 600px;
+	height: 300px;
+}
+
+.aboutMe {
+	margin-top: 50px;
+	font-weight: bold;
+}
+
+.aboutDescription {
+	margin: 0;
+}
+
+.descriptionBlock {
+	padding: 10px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.profile img{
+	max-height: 300px;
+}
+
+.social {
+	margin: 15px 0 15px 0;
+}
+
+.social span {
+	font-weight: bold;
+}

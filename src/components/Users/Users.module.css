@@ -1,0 +1,13 @@
+.avatar img {
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+}
+
+.pad {
+	padding: 10px;
+}
+
+.selectedPage {
+	font-weight: bold;
+}
